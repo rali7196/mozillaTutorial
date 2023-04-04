@@ -1,7 +1,26 @@
+html{
+    background-color: rgb(42, 100, 207);
+}
+
 p {
     color:red;
 }
 
+h1{
+    text-align: center;
+    margin: 0px;
+}
+
+img[src]{
+    display: block;
+    margin: 0px auto;
+
+}
+
 body{
     font-family: 'Delicious Handrawn', serif;
+    background-color: orange;
+    border: 5px solid black;
+
+
 }
